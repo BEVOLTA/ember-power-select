@@ -44,7 +44,7 @@
   ],
   "dependencies": {
     "@ember-decorators/component": "^6.1.0",
-    "ember-basic-dropdown": "^2.0.4",
+    "ember-basic-dropdown": "https://github.com/BEVOLTA/ember-basic-dropdown.git#master",
     "ember-cli-babel": "^7.8.0",
     "ember-cli-htmlbars": "^3.1.0",
     "ember-concurrency": "^1.0.0",
